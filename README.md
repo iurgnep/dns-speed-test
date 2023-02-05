@@ -54,4 +54,5 @@ dns_servers.txt文件中已经包含了国内外的知名DNS服务器IP：
   
 （二）执行测试  
 ./dns_speed_test.sh  
-<img width="497" alt="image" src="https://user-images.githubusercontent.com/63601413/216840881-d42d40d0-cb70-42ac-8b32-e2929b5688ab.png">
+<img width="497" alt="image" src="https://user-images.githubusercontent.com/63601413/216840881-d42d40d0-cb70-42ac-8b32-e2929b5688ab.png">  
+输出中的average query time是针对指定dns服务器进行10次查询后
